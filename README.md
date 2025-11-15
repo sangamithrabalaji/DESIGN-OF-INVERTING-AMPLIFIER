@@ -39,9 +39,12 @@ Inverting amplifier:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
 ## TABULATION:
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b5660a5-9a74-4c94-925f-40f8b5780110" />
 
 
 ## GRAPH:
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/b3896c8a-871b-484a-9789-8e2c8eb44e1b" />
 
 
 ## RESULT:
+Thus the inverting amplifier is designed and their performance was successfully tested using OP-AMP IC741
